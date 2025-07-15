@@ -1,77 +1,82 @@
-📖 Overview
-This case study explores the U.S. mortgage trading market using Power BI to simulate real-world loan trading strategies and profitability analysis. It covers the financial system, loan agreements, capital markets, and investment mechanisms like whole loan trades and mortgage-backed securities (MBS).
+# 📊 Mortgage Trading Analysis in Power BI
 
-🎯 Objectives
-Understand the mortgage market structure and trading mechanisms.
+## 📖 Overview
 
-Simulate a real-life whole loan trade bidding system.
+This case study explores the U.S. mortgage trading market using **Power BI** to simulate real-world loan trading strategies and profitability analysis. It covers:
 
-Use Power BI for data transformation, visual storytelling, and profitability analysis.
+- The financial system and loan agreements
+- Capital market transactions
+- Investment mechanisms like **whole loan trades** and **mortgage-backed securities (MBS)**
 
-Make strategic pricing recommendations based on borrower FICO scores.
+---
 
-🛠 Tools Used
-Power BI Desktop
+## 🎯 Objectives
 
-Power Query (M Language)
+- Understand the mortgage market structure and trading mechanisms  
+- Simulate a real-life **whole loan trade bidding system**  
+- Use Power BI for **data transformation**, **visual storytelling**, and **profitability analysis**  
+- Make strategic pricing recommendations based on borrower **FICO scores**
 
-DAX Calculations
+---
 
-Key Influencers AI Visual
+## 🛠 Tools Used
 
-📊 Power BI Reports Created
-Loan Status – Custom logic using IF() and ISBLANK() to define trade stages.
+- Power BI Desktop  
+- Power Query (M Language)  
+- DAX Calculations  
+- Key Influencers AI Visual  
 
-Loan Balances – Track principal balances and outstanding amounts.
+---
 
-Trade Analysis – Identify highest bid and winning bidder for each trade.
+## 📊 Power BI Reports Created
 
-Trade Execution – Calculate trade premiums and total revenue.
+| Report Name       | Description |
+|------------------|-------------|
+| **Loan Status**   | Used `IF()` and `ISBLANK()` logic to define trade stages |
+| **Loan Balances** | Tracked principal balances and outstanding amounts |
+| **Trade Analysis**| Identified highest bid and winning bidder |
+| **Trade Execution**| Calculated trade premiums and total revenue |
+| **Profit Analysis**| Evaluated loan-level profit margins and revenue drivers |
 
-Profit Analysis – Evaluate loan-level profit margins and uncover key profitability drivers.
+---
 
-📈 Key Metrics & Ratios
-LTV (Loan-to-Value): Assesses risk if the borrower defaults.
+## 📈 Key Metrics & Ratios
 
-DTI (Debt-to-Income): Evaluates repayment capacity.
+- **LTV (Loan-to-Value)** = Loan Amount / Property Value → Risk from borrower default  
+- **DTI (Debt-to-Income)** = Monthly Debt / Monthly Income → Borrower’s repayment capacity  
+- **Trade Premium** = Trade Amount - Principal Balance → Profit per loan trade  
+- **Profit Margin** = `(Revenue - Expenses) / Loan Amount`  
 
-Trade Premium: Measures profit from loan trades.
+---
 
-Profit Margin: (Revenue - Expenses) / Loan Amount
+## 💡 Key Insights
 
-💡 Key Insights
-High FICO scores (> 760) → Higher profit margins (+72 bps)
+- 🔹 **High FICO scores (> 760)** → Higher profit margins (+72 bps)  
+- 🔹 **Low FICO scores (≤ 7)** → Lower pricing due to higher risk (−85 bps)  
+- 🔹 Competitive pricing is **crucial** in tight mortgage markets
 
-Low FICO scores (≤ 7) → Lower pricing due to risk (-85 bps)
+---
 
-Competitive pricing strategy is essential due to tight lender competition.
+## 📌 Recommendations
 
-📌 Recommendations
-Offer discounted fees for high FICO borrowers to boost profitability.
+- Offer **discounted fees** for borrowers with FICO > 760  
+- Group borrowers into **credit score-based pricing tiers**  
+- Use **weighted average price** instead of mean to reflect loan population better  
 
-Group borrowers by credit score ranges to optimize pricing.
+---
 
-Use weighted average price to more accurately represent trading pools.
+## 🧠 Skills Demonstrated
 
-🧠 Skills Demonstrated
-Financial system analysis
+- Financial system & mortgage market analysis  
+- Power BI data modeling & visual storytelling  
+- Profitability & pricing simulation using trade data  
+- Power Query for ETL and data preparation  
+- AI-driven insights using Key Influencers visual  
 
-Power BI modeling and visualization
+---
 
-Profitability & trade pricing simulation
+## ✅ Outcome
 
-Strategic recommendations using data-driven insights
+Successfully developed an end-to-end mortgage trading dashboard in Power BI, delivering actionable insights for lenders to balance **profitability** and **market competitiveness** through data-driven pricing strategies.
 
-Data transformation using Power Query
-
-AI-driven analysis using Key Influencers visual
-
-🏁 Case Study Structure
-Chapter 1: Mortgage market and data cleaning
-
-Chapter 2: Trading simulation and revenue analysis
-
-Chapter 3: Market competition and FICO-based pricing strategy
-
-✅ Outcomes
-Successfully created a robust end-to-end mortgage trading analysis with actionable business insights, enhancing decision-making for lenders in a competitive financial market.
+---
