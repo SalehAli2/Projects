@@ -1,0 +1,77 @@
+📖 Overview
+This case study explores the U.S. mortgage trading market using Power BI to simulate real-world loan trading strategies and profitability analysis. It covers the financial system, loan agreements, capital markets, and investment mechanisms like whole loan trades and mortgage-backed securities (MBS).
+
+🎯 Objectives
+Understand the mortgage market structure and trading mechanisms.
+
+Simulate a real-life whole loan trade bidding system.
+
+Use Power BI for data transformation, visual storytelling, and profitability analysis.
+
+Make strategic pricing recommendations based on borrower FICO scores.
+
+🛠 Tools Used
+Power BI Desktop
+
+Power Query (M Language)
+
+DAX Calculations
+
+Key Influencers AI Visual
+
+📊 Power BI Reports Created
+Loan Status – Custom logic using IF() and ISBLANK() to define trade stages.
+
+Loan Balances – Track principal balances and outstanding amounts.
+
+Trade Analysis – Identify highest bid and winning bidder for each trade.
+
+Trade Execution – Calculate trade premiums and total revenue.
+
+Profit Analysis – Evaluate loan-level profit margins and uncover key profitability drivers.
+
+📈 Key Metrics & Ratios
+LTV (Loan-to-Value): Assesses risk if the borrower defaults.
+
+DTI (Debt-to-Income): Evaluates repayment capacity.
+
+Trade Premium: Measures profit from loan trades.
+
+Profit Margin: (Revenue - Expenses) / Loan Amount
+
+💡 Key Insights
+High FICO scores (> 760) → Higher profit margins (+72 bps)
+
+Low FICO scores (≤ 7) → Lower pricing due to risk (-85 bps)
+
+Competitive pricing strategy is essential due to tight lender competition.
+
+📌 Recommendations
+Offer discounted fees for high FICO borrowers to boost profitability.
+
+Group borrowers by credit score ranges to optimize pricing.
+
+Use weighted average price to more accurately represent trading pools.
+
+🧠 Skills Demonstrated
+Financial system analysis
+
+Power BI modeling and visualization
+
+Profitability & trade pricing simulation
+
+Strategic recommendations using data-driven insights
+
+Data transformation using Power Query
+
+AI-driven analysis using Key Influencers visual
+
+🏁 Case Study Structure
+Chapter 1: Mortgage market and data cleaning
+
+Chapter 2: Trading simulation and revenue analysis
+
+Chapter 3: Market competition and FICO-based pricing strategy
+
+✅ Outcomes
+Successfully created a robust end-to-end mortgage trading analysis with actionable business insights, enhancing decision-making for lenders in a competitive financial market.
