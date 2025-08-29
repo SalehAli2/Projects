@@ -30,11 +30,14 @@ Helps evaluate and select the best supplier based on **lowest full cost**.
 - 📈 **Line Charts**:  
   - Unit cost by volume & supplier  
   - Non-recurring expenses by volume & supplier  
+<img width="1254" height="706" alt="image" src="https://github.com/user-attachments/assets/2b3e2c2e-9dcd-4925-9636-436aad069ef9" />
+
 
 ---
 
 ### 2️⃣ Scenario Analysis Dashboard
 Enables **scenario-based supplier analysis** to determine the **lowest full cost supplier** as **volume changes**.
+<img width="1255" height="708" alt="image" src="https://github.com/user-attachments/assets/bda40675-0e8b-46d6-819e-75e031b5b179" />
 
 ---
 
@@ -45,6 +48,7 @@ Compares the cost implications of making in-house versus buying from suppliers.
 - Comparison of **Full Cost by Supplier & Part**  
 - **Decision indicator**: Make or Buy  
 - Calculation of **Cost Avoidance / Savings**  
+<img width="1254" height="707" alt="image" src="https://github.com/user-attachments/assets/928fc36d-2e7c-42c9-bdec-4c0d0b85e552" />
 
 ---
 
