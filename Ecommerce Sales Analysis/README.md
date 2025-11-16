@@ -54,9 +54,9 @@ The analysis was carried out using **Power BI** for visualization, supported by 
 ---
 
 ## 📸 Dashboard Preview  
-<img width="810" height="455" alt="image" src="https://github.com/user-attachments/assets/090e5a88-db2e-4432-870c-cb238dad9b44" />
-<img width="812" height="456" alt="image" src="https://github.com/user-attachments/assets/2347cb0c-43bc-4edf-98db-d6ad023ef408" />
-<img width="809" height="457" alt="image" src="https://github.com/user-attachments/assets/9ead85c4-3577-4ae5-a492-ad0d96e5ec75" />
+<img width="664" height="376" alt="image" src="https://github.com/user-attachments/assets/3d539164-0572-4873-a50f-1c221b034725" />
+<img width="666" height="375" alt="image" src="https://github.com/user-attachments/assets/60d61b2c-f2a2-4382-a153-e6776d534c2d" />
+<img width="665" height="376" alt="image" src="https://github.com/user-attachments/assets/19f68ece-b8f4-43f4-9b73-c3566d384902" />
 
 
 
