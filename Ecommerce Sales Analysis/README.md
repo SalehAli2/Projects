@@ -1,5 +1,10 @@
 # 🐾 Whiskique Sales & Customer Insights Dashboard
 
+## 📸 Dashboard Preview  
+<img width="664" height="376" alt="image" src="https://github.com/user-attachments/assets/3d539164-0572-4873-a50f-1c221b034725" />
+<img width="666" height="375" alt="image" src="https://github.com/user-attachments/assets/60d61b2c-f2a2-4382-a153-e6776d534c2d" />
+<img width="665" height="376" alt="image" src="https://github.com/user-attachments/assets/19f68ece-b8f4-43f4-9b73-c3566d384902" />
+---
 ## 📌 Project Overview  
 This project analyzes sales, profit margins, shipping costs, and customer purchasing behavior for **Whiskique**, an online pet supply company.  
 The goal is to uncover insights that drive sales growth, improve profitability, and optimize operations.  
@@ -51,12 +56,7 @@ The analysis was carried out using **Power BI** for visualization, supported by 
 - Data-driven opportunities for product bundling & cross-selling.  
 - Delivered an interactive Power BI dashboard for stakeholders.  
 
----
 
-## 📸 Dashboard Preview  
-<img width="664" height="376" alt="image" src="https://github.com/user-attachments/assets/3d539164-0572-4873-a50f-1c221b034725" />
-<img width="666" height="375" alt="image" src="https://github.com/user-attachments/assets/60d61b2c-f2a2-4382-a153-e6776d534c2d" />
-<img width="665" height="376" alt="image" src="https://github.com/user-attachments/assets/19f68ece-b8f4-43f4-9b73-c3566d384902" />
 
 
 
