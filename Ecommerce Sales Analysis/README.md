@@ -5,6 +5,7 @@
 <img width="666" height="375" alt="image" src="https://github.com/user-attachments/assets/60d61b2c-f2a2-4382-a153-e6776d534c2d" />
 <img width="665" height="376" alt="image" src="https://github.com/user-attachments/assets/19f68ece-b8f4-43f4-9b73-c3566d384902" />
 ---
+
 ## 📌 Project Overview  
 This project analyzes sales, profit margins, shipping costs, and customer purchasing behavior for **Whiskique**, an online pet supply company.  
 The goal is to uncover insights that drive sales growth, improve profitability, and optimize operations.  
