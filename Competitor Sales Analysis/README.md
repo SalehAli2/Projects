@@ -1,5 +1,10 @@
 # 📊 Competitor Sales Analysis 
 
+## Dashboards Overview
+<img width="1442" height="808" alt="image" src="https://github.com/user-attachments/assets/82ecf54c-02bc-4ab1-a4e5-fdc080dc14fd" />
+<img width="1442" height="807" alt="image" src="https://github.com/user-attachments/assets/7097ae78-00b7-4995-a62e-59f0d658333d" />
+
+
 ## 🧩 Case Study Overview
 
 This project focuses on analyzing a **manufacturer’s internal sales** and comparing them with competitors to identify **revenue drivers**, **market share trends**, and **growth opportunities** across regions and product lines.
